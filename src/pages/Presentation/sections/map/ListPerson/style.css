@@ -1,0 +1,11 @@
+.wrap-icon {
+  padding: 5px;
+  border-radius: 50%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+}
+
+.wrap-icon:hover {
+  background-color: rgb(226, 222, 222);
+}
